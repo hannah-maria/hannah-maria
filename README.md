@@ -6,7 +6,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Hannah</h1>
 <h3 align="center">A Passionate Web developer | Software Engineer Enthusiast</h3>
 <br/>
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif"><br/>
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about *Web development, OOPS and dogs*
