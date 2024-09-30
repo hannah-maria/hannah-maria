@@ -3,19 +3,19 @@
 
 ![Hannah Maria's Banner](https://github.com/hannah-maria/hannah-maria/blob/master/banner.png)
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Hannah</h1>
-<h3 align="center">A Passionate Web developer | Aspiring Software Engineer </h3>
+<h1 align="center">Hemloo <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Hannah</h1>
+<h3 align="center">A Passionate Web developer | Pre-final year CSE student </h3>
 
 <br/>
 
 <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
-- 🔭 I’m currently delving into *Open Source Contribution*
+- 🔭 Just getting started with *Open Source Contribution*
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about *Web development, OOPS and dogs*
+- 💬 Ask me about *Web development, C++ and dogs*
 
 - 🌎 I know **English, Hindi, Malayalam, and a little bit of French.**
 - ⚡ About Me: I'm a *dog lover*
