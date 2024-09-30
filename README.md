@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hannah-maria&label=Profile%20views&color=0e75b6&style=flat" alt="hannah-maria" /> 
 </p>
 
-![Radhika Malpani (2)](https://github.com/RadhikaMalpani1702/RadhikaMalpani1702/assets/163530398/ccfabad9-f3b1-47fe-b612-2ac18da6b240)
+![Hannah Maria's Banner](https://github.com/hannah-maria/hannah-maria/blob/master/banner.png)
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Hannah</h1>
 <h3 align="center">A Passionate Web developer | Aspiring Software Engineer </h3>
