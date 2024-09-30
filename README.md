@@ -83,5 +83,5 @@
 <p align="center">
   <b>Thank you for visiting my profile! I appreciate your time and interest in my work. 😊</b>
   <br />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Smiling Cat" width="150" />
+  <img src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-86.gif" alt="Cat" width="150" />
 </p>
