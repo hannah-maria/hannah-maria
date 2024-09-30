@@ -13,7 +13,7 @@
 
 - 🔭 Just getting started with *Open Source Contribution*
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **JavaScript, React, Node JS**
 
 - 💬 Ask me about *Web development, C++ and dogs*
 
