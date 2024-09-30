@@ -74,5 +74,5 @@
 <p align="center">
   <b>Thank you for visiting my profile! I appreciate your time and interest in my work. 😊</b>
   <br />
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Smiling Cat" width="150" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt5eW5wOTQ2Zjc2YmMwMGhmbXRvdHMwMXZudXYwYm5oY2R4eHNhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9Dxh8ZKJroRCKuRxht/giphy.webp" alt="Another GIF" width="150" />
 </p>
