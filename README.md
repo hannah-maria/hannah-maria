@@ -55,7 +55,7 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hannah-maria&theme=neon" alt="Profile Summary">
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hannah-maria&theme=synthwave" alt="Profile Summary">
 </td>
 </tr>
 </table>
@@ -66,7 +66,7 @@
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=hannah-maria&show_icons=true&locale=en&theme=synthwave" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=hannah-maria&theme=omni" alt="Streak Stats"/>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=hannah-maria&theme=synthwave" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
