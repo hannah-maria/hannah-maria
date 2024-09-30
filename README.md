@@ -4,10 +4,14 @@
 ![Radhika Malpani (2)](https://github.com/RadhikaMalpani1702/RadhikaMalpani1702/assets/163530398/ccfabad9-f3b1-47fe-b612-2ac18da6b240)
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Hannah</h1>
-<h3 align="center">A Passionate Web developer | Aspiring Software Engineer </h3>
+<h3 align="center">A Passionate Web developer | Software Engineer Enthusiast</h3>
+
 <br/>
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif"><br/>
-- 🔭 I’m currently delving into as *Open Source Contributor*
+
+<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
+
+- 🔭 I’m currently working as *Open Source Contributor*
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -79,5 +83,5 @@
 <p align="center">
   <b>Thank you for visiting my profile! I appreciate your time and interest in my work. 😊</b>
   <br />
-  <img src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-86.gif" alt="Cat" width="150" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Smiling Cat" width="150" />
 </p>
