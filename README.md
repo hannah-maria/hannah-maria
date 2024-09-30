@@ -4,7 +4,7 @@
 ![Radhika Malpani (2)](https://github.com/RadhikaMalpani1702/RadhikaMalpani1702/assets/163530398/ccfabad9-f3b1-47fe-b612-2ac18da6b240)
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Hannah</h1>
-<h3 align="center" style="margin-bottom: 10px;">A Passionate Web developer | Software Engineer Enthusiast</h3>
+<h3 align="center" style="margin-bottom: 7px;">A Passionate Web developer | Software Engineer Enthusiast</h3>
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif"><br/>
 - 🌱 I’m currently learning **Web Development**
