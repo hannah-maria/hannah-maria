@@ -8,8 +8,7 @@
 
 <br/>
 
-<img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif">
 
 - 🔭 I’m currently working as *Open Source Contributor*
 
